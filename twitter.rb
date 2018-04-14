@@ -17,6 +17,7 @@ class TwitterApi
 
   def most_recent_friend
     #find the twitter gem method that retrieves a user's friends and grab the most recent friend
+
   end
 
   def find_user_for(username)
@@ -30,10 +31,10 @@ class TwitterApi
   def homepage_timeline
     #find the twitter gem method that retreives the tweets from a user's timeline.
   end
-  
+
 end
 
-#Bonus: 
+#Bonus:
 
 # uncomment out the following and read the bonus instructions.
 # remember to comment out the WebMock line of your spec_helper, as the instructions dictate.
